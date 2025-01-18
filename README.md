@@ -14,13 +14,13 @@ The Péguy creative suite is a set of softwares for artistic creation using proc
 [Péguy 3D](https://github.com/Killfaeh/Peguy3D) is a 3D procedural generation software.<br/>
 
 <div align="center">
-<img src="./doc/Peguy3DScreenshot.png">
+<img src="https://raw.githubusercontent.com/Killfaeh/Peguy.js/refs/heads/main/doc/Peguy3DScreenshot.png">
 </div><br/>
 
 ## [Péguy Collider](https://github.com/Killfaeh/PeguyCollider)
 
 [Péguy Collider](https://github.com/Killfaeh/PeguyCollider) is a music procedural generation software.<br/>
 <div align="center">
-<img src="./doc/PeguyColliderScreenshot.png">
+<img src="https://raw.githubusercontent.com/Killfaeh/Peguy.js/refs/heads/main/doc/PeguyColliderScreenshot.png">
 </div><br/>
 
