@@ -6,7 +6,7 @@ The Péguy creative suite is a set of softwares for artistic creation using proc
 [Péguy Vectors](https://github.com/Killfaeh/PeguyVectors) is a vector procedural generation software.<br/>
 
 <div align="center">
-<img src="./doc/PeguyVectorsScreenshot.png">
+<img src="https://raw.githubusercontent.com/Killfaeh/Peguy.js/refs/heads/main/doc/PeguyVectorsScreenshot.png">
 </div><br/>
 
 ## [Péguy 3D](https://github.com/Killfaeh/Peguy3D)
