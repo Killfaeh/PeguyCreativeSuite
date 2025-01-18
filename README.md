@@ -1,5 +1,5 @@
 # PeguyCreativeSuite
-The Péguy creative suite is a set of softwares for artistic creation using procedural generation.
+The Péguy creative suite is a set of softwares for artistic creation using procedural generation or generative AI.
 
 ## [Péguy Vectors](https://github.com/Killfaeh/PeguyVectors)
 
@@ -22,5 +22,13 @@ The Péguy creative suite is a set of softwares for artistic creation using proc
 [Péguy Collider](https://github.com/Killfaeh/PeguyCollider) is a music procedural generation software.<br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Killfaeh/Peguy.js/refs/heads/main/doc/PeguyColliderScreenshot.png">
+</div><br/>
+
+## Péguy Diffuser
+
+Péguy Diffuser is an image editor powered by Stable Diffusion. (Work in progress)<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Killfaeh/Peguy.js/refs/heads/main/doc/PeguyDiffuserScreenshot.png">
 </div><br/>
 
