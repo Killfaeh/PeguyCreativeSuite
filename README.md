@@ -1,2 +1,26 @@
 # PeguyCreativeSuite
 The Péguy creative suite is a set of softwares for artistic creation using procedural generation.
+
+## [Péguy Vectors](https://github.com/Killfaeh/PeguyVectors)
+
+[Péguy Vectors](https://github.com/Killfaeh/PeguyVectors) is a vector procedural generation software.<br/>
+
+<div align="center">
+<img src="./doc/PeguyVectorsScreenshot.png">
+</div><br/>
+
+## [Péguy 3D](https://github.com/Killfaeh/Peguy3D)
+
+[Péguy 3D](https://github.com/Killfaeh/Peguy3D) is a 3D procedural generation software.<br/>
+
+<div align="center">
+<img src="./doc/Peguy3DScreenshot.png">
+</div><br/>
+
+## [Péguy Collider](https://github.com/Killfaeh/PeguyCollider)
+
+[Péguy Collider](https://github.com/Killfaeh/PeguyCollider) is a music procedural generation software.<br/>
+<div align="center">
+<img src="./doc/PeguyColliderScreenshot.png">
+</div><br/>
+
